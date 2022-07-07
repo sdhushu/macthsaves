@@ -99,7 +99,7 @@ const options = [
                     /></el-select>
                 </el-col>
                 <el-col :span="6">
-                  <div style="margin-bottom: 5px">与[num]分享</div>
+                  <div style="margin-bottom: 5px">与[num]分享gfuggsgdg</div>
                   <input style="border:none;height: 60%;outline: none" v-model="input" placeholder="Please input" />
                 </el-col>
                 <el-col :span="6">
