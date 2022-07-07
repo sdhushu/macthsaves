@@ -103,11 +103,11 @@ const options = [
                   <input style="border:none;height: 60%;outline: none" v-model="input" placeholder="Please input" />
                 </el-col>
                 <el-col :span="6">
-                  <div style="margin-bottom: 5px">价格</div>
+                  <div style="margin-bottom: 5px">价格34424343</div>
                   <input style="border:none;height: 60%;outline: none" v-model="input" placeholder="Please input" />
                 </el-col>
                 <el-col :span="6">
-                  <div style="margin-bottom: 5px">地点</div>
+                  <div style="margin-bottom: 5px">地点434242</div>
                   <input style="border:none;height: 60%;outline: none" v-model="input" placeholder="Please input" />
                 </el-col>
               </el-row>
