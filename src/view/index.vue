@@ -80,7 +80,7 @@ const options = [
       <div class="select" :style="{background:`#334aca url(${land}) no-repeat`}">
         <el-row>
           <el-col :span="24" class="center">
-            <div  style="font-size: 50px;color: white;font-weight: 700">出租房屋</div>
+            <div  style="font-size: 50px;color: white;font-weight: 700">出租房屋4534535</div>
             <div style="color: white">查找位于您当地城市的新的特色物业</div>
           </el-col>
 <!--          卡片-->
